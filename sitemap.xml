@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://linse.github.com/blog/2012/07/31/hello-octopress/</loc>
+        <lastmod>2012-08-01T00:16:42-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://linse.github.com/blog/archives/</loc>
-        <lastmod>2012-07-31T23:17:15-04:00</lastmod>
+        <lastmod>2012-08-01T00:16:42-04:00</lastmod>
     </url>
     <url>
         <loc>http://linse.github.com/</loc>
-        <lastmod>2012-07-31T23:17:15-04:00</lastmod>
+        <lastmod>2012-08-01T00:16:42-04:00</lastmod>
     </url>
 </urlset>
